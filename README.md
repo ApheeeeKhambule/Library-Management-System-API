@@ -63,6 +63,8 @@ Delete a User: DELETE /api/users/<id>/
 
 **Transactions**:
 List User Transactions: GET /api/transactions/ (Authenticated users only)
+
 Check Out a Book: POST /api/transactions/
+
 Return a Book: DELETE /api/transactions/<id>/ (ID of the transaction)
 
