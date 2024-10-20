@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+.egg-info/
+.env
+.venv
+venv/
+ENV/
+env/
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+.project
+.pydev/
+
+# Logs
+*.log
+
+# Other files to ignore
+*.sqlite3  # if using SQLite
