@@ -41,16 +41,24 @@ python manage.py runserver
 ***API ENDPOINTS***:
 **Books**:
 List All Books: GET /api/books/
+
 Create a Book: POST /api/books/
+
 Retrieve a Book: GET /api/books/<id>/
+
 Update a Book: PUT /api/books/<id>/
+
 Delete a Book: DELETE /api/books/<id>/
 
 **Users**:
 List All Users: GET /api/users/
+
 Create a User: POST /api/users/
+
 Retrieve a User: GET /api/users/<id>/
+
 Update a User: PUT /api/users/<id>/
+
 Delete a User: DELETE /api/users/<id>/
 
 **Transactions**:
